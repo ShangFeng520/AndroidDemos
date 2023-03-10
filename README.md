@@ -43,9 +43,10 @@
 
 **项目描述：** 一款天气查询app，可以搜索全球各个城市的天气信息。整体采用MVVM架构，使用了ViewBinding、LiveData、ViewModel、Retrofit2、Gson、kotlin coroutine、sharedPreferences、下拉刷新、滑动菜单等技术。
 
+<img src=".\pic\image-20230310114452285.png" alt="image-20230310114452285" style="zoom:100%;" />
+
 <table frame=void>
 	<tr>
-        <td><center><img src=".\pic\image-20230310114452285.png" alt="image-20230310114452285" style="zoom:80%;" /></center></td>
     	<td><center><img src=".\pic\image-20230310115243336.png" alt="image-20230310115243336" style="zoom:25%;" /></center></td>
         <td><center><img src=".\pic\image-20230310115415763.png" alt="image-20230310115415763" style="zoom:25%;" /></center></td>
     </tr>
